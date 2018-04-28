@@ -6,14 +6,14 @@
 \title{datos_tmin dataset}
 \format{An object of class "data.frame".}
 \source{
-CORPOICA-IDEAM 2015 Database.
+IDEAM 2015 Database.
 }
 \usage{
 data(datos_tmin)
 }
 \description{
 datos_tmin is a dataset of daily minimum temperature data taken in some of the
-Colombian Weather Stations for the period of 1980.01.01 to 1980.01.31.
+Colombian Climate Stations for the period of 1980.01.01 to 1980.01.31.
 The Weather Stations are located in the coffe region mostly.
 }
 \examples{
