@@ -84,7 +84,10 @@ The calculation is based on a Multiple Linear Regression (RLM).
 
 \section{References}{
 
-
+Alzate-Velásquez, D.F., Araujo-Carrilo, G.A., Rojas-Barbosa, E.O., Gómez-Latorre, D.A., & Martínez-Maldonado, F.E. (2018).
+Interpolacion Regnie para lluvia y temperatura en las regiones Andina, Caribe y Pacífica de Colombia. 
+Colombia Forestal, 21(1), 102-118.
+            
 Abteilung Hydrometeorologie. (2013). REGNIE (Regionalisierte Niederschlage): Verfahrensbeschreibung & Nutzeranleitung.
 Offenbach: Deutscher Wetterdienst - DWD. 9 p.
 
@@ -110,7 +113,5 @@ RegRAIN(datos, dem, 1, 2, crossv = FALSE)
 }
 \author{
 Diego Alzate.
-Agroclimatology Group
-CORPOICA.
-E-mail: dfalzate@corpoica.org.co
+E-mail: diegoalzatev@gmail.com
 }
