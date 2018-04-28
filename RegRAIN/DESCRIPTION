@@ -4,7 +4,7 @@ Title: Method RegRAIN (MLR, Spline and IDW) for spatial interpolation
         stations
 Version: 0.1.0
 Imports: dplyr, rgdal, rgeos,
-Authors@R: person("Diego", "Alzate", email = "dfalzate@corpoica.org.co", role = c("aut", "cre"))
+Authors@R: person("Diego", "Alzate", email = "diegoalzatev@gmail.com", role = c("aut", "cre"))
 Description: Interpolate daily rainfall data or daily temperature (max, min) using multiple linear regression, spline and IDW. The variables of the regression are X-Y location,elevation,aspect and slope.
 Depends: R (>= 3.2.3), fields, raster, sp, hydroGOF, gstat
 License: GPL (>= 3)
@@ -14,4 +14,4 @@ RoxygenNote: 6.0.1
 NeedsCompilation: no
 Packaged: 2017-08-24 18:25:47 UTC; dfalzate
 Author: Diego Alzate [aut, cre]
-Maintainer: Diego Alzate <dfalzate@corpoica.org.co>
+Maintainer: Diego Alzate <diegoalzatev@gmail.com>
